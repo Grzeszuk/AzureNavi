@@ -1,0 +1,107 @@
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\sqlite3.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\ITADcodes\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\sqlite3.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.pdb
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.xml
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2015\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\sqlite3.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.pdb
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.xml
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.xml
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.xml
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.xml
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.xml
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Documents\Visual Studio 2017\Projects\AZURE\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\sqlite3.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.Sqlite.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.pdb
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.xml
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.xml
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.xml
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.xml
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.xml
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Downloads\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\obj\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\sqlite3.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceInterface.pdb
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.Sqlite.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Mono.Data.Sqlite.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ITADcodes.ServiceModel.pdb
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.xml
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Client.xml
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Common.xml
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.OrmLite.xml
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\ServiceStack.Text.xml
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Simplify.Mail.dll
+C:\Users\brand\Downloads\ath\twonoobs-azure-d218f4ff7e19\ITADcodes\ITADcodes.ServiceInterface\bin\Release\Simplify.Mail.xml

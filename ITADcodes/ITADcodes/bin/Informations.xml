@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+
+<catalog>
+
+  <information>
+    <id>300</id>
+    <text>Jeśli w Chinach zapytasz się o imię, może to zostać potraktowane za nietaktowne zachowanie.</text>
+  </information>
+
+  <information>
+    <id>301</id>
+    <text>Metro w Moskwie przewozi dziennie około 9 mln pasażerów.</text>
+  </information>
+
+  <information>
+    <id>302</id>
+    <text>Do keczupu zaczęto dodawać pomidory dopiero około 1790 r.</text>
+  </information>
+
+  <information>
+    <id>303</id>
+    <text>Koliber jest jedynym ptakiem, który umie latać do tyłu.</text>
+  </information>
+  
+  <information>   
+    <id>304</id>
+    <text>Męszczyźni mają grubszą skórę od kobiet.</text>
+  </information>
+ 
+</catalog>

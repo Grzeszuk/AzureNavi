@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<catalog>
+  
+  <question>
+    <QuestionID>100</QuestionID>
+    <QuestionText>Maksymalny rozmiar pliku w systemie FAT32 wynosi:</QuestionText>
+    <AnswerText1>2GB</AnswerText1>
+    <AnswerText2>4GB</AnswerText2>
+    <AnswerText3>6GB</AnswerText3>
+    <AnswerText4>8GB</AnswerText4>
+    <CorrectAnswer>4GB</CorrectAnswer>
+  </question>
+
+  <question>
+    <QuestionID>101</QuestionID>
+    <QuestionText>Ile partycji podstawowych możemy utworzyć na dysku twardym?</QuestionText>
+    <AnswerText1>4</AnswerText1>
+    <AnswerText2>8</AnswerText2>
+    <AnswerText3>16</AnswerText3>
+    <AnswerText4>nie ma limitu</AnswerText4>
+    <CorrectAnswer>4</CorrectAnswer>
+  </question>
+
+  <question>
+    <QuestionID>102</QuestionID>
+    <QuestionText>Uruchomiony program z przydzieloną osobną pamięcią i czasem procesora, identyfikowany przez PlD to:</QuestionText>
+    <AnswerText1>stos</AnswerText1>
+    <AnswerText2>wątek</AnswerText2>
+    <AnswerText3>proces</AnswerText3>
+    <AnswerText4>semafor</AnswerText4>
+    <CorrectAnswer>proces</CorrectAnswer>
+  </question>
+
+  <question>
+    <QuestionID>103</QuestionID>
+    <QuestionText>Adres ip składa się z adresu:</QuestionText>
+    <AnswerText1>sieci i adresu MAC</AnswerText1>
+    <AnswerText2>hosta i adresu MAC</AnswerText2>
+    <AnswerText3>sieci i adresu hosta</AnswerText3>
+    <AnswerText4>MAC i maski podsieci</AnswerText4>
+    <CorrectAnswer>sieci i adresu hosta</CorrectAnswer>
+  </question>
+  
+   <question>
+    <QuestionID>104</QuestionID>
+    <QuestionText>W jakim języku programowania napisano jądro Linuxa?</QuestionText>
+    <AnswerText1>C++</AnswerText1>
+    <AnswerText2>Python</AnswerText2>
+    <AnswerText3>C</AnswerText3>
+    <AnswerText4>Java</AnswerText4>
+    <CorrectAnswer>C</CorrectAnswer>
+  </question>
+
+  <question>
+    <QuestionID>105</QuestionID>
+    <QuestionText>Adres ip składa się z adresu:</QuestionText>
+    <AnswerText1>sieci i adresu MAC</AnswerText1>
+    <AnswerText2>hosta i adresu MAC</AnswerText2>
+    <AnswerText3>sieci i adresu hosta</AnswerText3>
+    <AnswerText4>MAC i maski podsieci</AnswerText4>
+    <CorrectAnswer>sieci i adresu hosta</CorrectAnswer>
+  </question>
+</catalog>
